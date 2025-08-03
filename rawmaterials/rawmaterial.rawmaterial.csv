@@ -1,0 +1,23 @@
+Id,Name,CreatedAt,UpdatedAt,IsEnabled
+1,lechuga,2025-07-17 01:21:05,NULL,1
+2,lechuga seda,2025-07-17 01:21:05,NULL,1
+3,lechuga crespa,2025-07-17 01:21:05,NULL,1
+4,pan ciabatta,2025-07-17 23:05:12,NULL,1
+5,pan árabe,2025-07-17 23:06:12,NULL,1
+6,pan francés,2025-07-17 23:07:42,NULL,1
+7,tomate,2025-07-17 23:08:00,NULL,1
+8,huevo,2025-07-17 23:09:00,NULL,1
+9,mayonesa,2025-07-17 23:09:00,NULL,1
+10,aceite de oliva extra virgen,2025-07-17 23:09:00,NULL,1
+11,chimichurry,2025-07-17 23:09:00,NULL,1
+12,orégano,2025-07-17 23:10:00,NULL,1
+13,ajos,2025-07-17 23:10:00,NULL,1
+14,chile seco,2025-07-17 23:11:00,NULL,1
+15,queso fresco,2025-07-17 23:12:00,NULL,1
+16,papa huayro,2025-07-17 23:13:00,NULL,1
+17,papa blanca,2025-07-17 23:13:00,NULL,1
+18,chorizo parrillero,2025-07-17 23:14:00,NULL,1
+19,pimiento verde,2025-07-17 23:14:00,NULL,1
+20,pimiento amarillo,2025-07-17 23:14:00,NULL,1
+21,pimiento rojo,2025-07-17 23:15:00,NULL,1
+22,cebolla blanca,2025-07-17 23:17:00,NULL,1
